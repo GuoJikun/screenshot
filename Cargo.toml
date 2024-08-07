@@ -1,5 +1,5 @@
 [package]
-name = "screenshot"
+name = "screenshot_desktop"
 version = "0.1.0"
 edition = "2021"
 description = "Take a screenshot of a screen"

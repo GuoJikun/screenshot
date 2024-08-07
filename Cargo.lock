@@ -757,7 +757,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "screenshot"
+name = "screenshot_desktop"
 version = "0.1.0"
 dependencies = [
  "image",

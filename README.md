@@ -11,7 +11,7 @@ First, add screenshot to your project by cargo.
 
 ```rs
 use std::path::Path;
-use screenshot::Screenshot;
+use screenshot_desktop::Screenshot;
 
 fn main(){
     let _ = match Screenshot::new() {

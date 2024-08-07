@@ -1,5 +1,5 @@
 use std::path::Path;
-use screenshot::Screenshot;
+use screenshot_desktop::Screenshot;
 
 fn main(){
     let _ = match Screenshot::new() {
